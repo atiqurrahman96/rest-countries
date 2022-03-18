@@ -1,0 +1,14 @@
+.color h2{
+    color: green;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+/* .country img{
+    width: 200px;
+} */
+.color img{
+    width: 200px;
+}
+.color p{
+    color: black;
+}
